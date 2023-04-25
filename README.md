@@ -14,4 +14,7 @@ Settlement Risk means the counterparty fails to deliver the terms of a contract 
 
 Please note that, the settlement risk only occurs on the trades’ maturities. For instance, the pre-deal settlement risk profile only has values on the time buckets 4m and 12m; the settlement risk is zero at all of other time buckets.
 
-Add-on exposure approach is very useful for capturing exotic derivatives risk where full valuation is too expensive, such as FX TARN, FX accumulator https://finpricing.com/lib/FxAccumulator.html
+
+Reference:
+
+https://finpricing.com/aboutus.html
